@@ -5,10 +5,9 @@
 <p align="center">
    <a href="https://discord.com/users/690465699201810433" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/mertozdemireps" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://www.youtube.com/channel/UCTC1VQ5lqIucnIeYnZ7sMpA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://steamcommunity.com/id/SEYFULLAHyerebakan/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
+   <a href="https://steamcommunity.com/id/mertozdemireps/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/mert20181973" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.instagram.com/ozdemirr19071/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/mertozdemireps/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <img src="https://komarev.com/ghpvc/?username=mertozdemireps&label=VISITORS&color=5f13e9" alt="SoulCastle0"/>
 </p>
 
